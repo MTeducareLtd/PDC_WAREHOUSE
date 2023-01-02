@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "PDCPro", "PDCPro.exe", "{145E34EC-607A-4648-AD67-D33FB01EEC11}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = H:\Sujeer_Laptop_D_Drive_Data\APPLICATION_CODE_BACKUP\ALL UPDATED LATESTCODE PROJECT_26-02-2018_1258HRS\PDC_WAREHOUSE_11062018\PDC Pro with MT DB Connection 23 May 2017\PDCPro.exe
+		RemoteMachine = C02201ICTAJ1
+		StartingDirectory = H:\Sujeer_Laptop_D_Drive_Data\APPLICATION_CODE_BACKUP\ALL UPDATED LATESTCODE PROJECT_26-02-2018_1258HRS\PDC_WAREHOUSE_11062018\PDC Pro with MT DB Connection 23 May 2017
+		Environment = Default
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+		IORedirection = Auto
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2DD4EBE5-F4E2-4509-A71B-7A385E649B97}"
+	ProjectSection(SolutionItems) = preProject
+		FrmDispatchSlipChequeEntry.frm = FrmDispatchSlipChequeEntry.frm
+		FrmDispatchSlipChequeEntry_Sub1.frm = FrmDispatchSlipChequeEntry_Sub1.frm
+		FrmDispatchSlipChequeEntry_Sub1.frx = FrmDispatchSlipChequeEntry_Sub1.frx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{145E34EC-607A-4648-AD67-D33FB01EEC11}.Debug|x86.ActiveCfg = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08497773-0FEE-4E6D-A428-47F9AECE0ED8}
+	EndGlobalSection
+EndGlobal

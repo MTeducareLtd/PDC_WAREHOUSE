@@ -1,0 +1,19 @@
+0104SLCMSLCC    INR            AMT CHQ NO. MTKA/3240611           CHQ NO.              AMTTRAN CODE MICR NO                                                                                MT EDUCARE LIMITED
+0104SLCMSLCC    INR       34500.00 856367 MTKA/3240611           856367         34500.0031 560002120                                                                                MT EDUCARE LIMITED
+0104SLCMSLCC    INR       34500.00 478527 MTKA/3240611           478527         34500.0011 000017000                                                                                MT EDUCARE LIMITED
+0104SLCMSLCC    INR       34500.00 573265 MTKA/3240611           573265         34500.0016 000002000                                                                                MT EDUCARE LIMITED
+0104SLCMSLCC    INR       34500.00 573264 MTKA/3240611           573264         34500.0016 000002000                                                                                MT EDUCARE LIMITED
+0104SLCMSLCC    INR       34500.00 573263 MTKA/3240611           573263         34500.0016 000002000                                                                                MT EDUCARE LIMITED
+0104SLCMSLCC    INR       34500.00 124182 MTKA/3240611           124182         34500.0010 561052202                                                                                MT EDUCARE LIMITED
+0104SLCMSLCC    INR       34500.00 195425 MTKA/3240611           195425         34500.0016 000052000                                                                                MT EDUCARE LIMITED
+0104SLCMSLCC    INR       34500.00 011853 MTKA/3240611           011853         34500.0016 000052000                                                                                MT EDUCARE LIMITED
+0104SLCMSLCC    INR       34500.00 135159 MTKA/3240611           135159         34500.0016 000017000                                                                                MT EDUCARE LIMITED
+0104SLCMSLCC    INR       34500.00 376427 MTKA/3240611           376427         34500.0016 000017000                                                                                MT EDUCARE LIMITED
+0104SLCMSLCC    INR       34500.00 073245 MTKA/3240611           073245         34500.0031 562006507                                                                                MT EDUCARE LIMITED
+0104SLCMSLCC    INR       34500.00 845941 MTKA/3240611           845941         34500.0031 560004036                                                                                MT EDUCARE LIMITED
+0104SLCMSLCC    INR       34500.00 110683 MTKA/3240611           110683         34500.0031 562006506                                                                                MT EDUCARE LIMITED
+0104SLCMSLCC    INR       34500.00 338539 MTKA/3240611           338539         34500.0016 000017000                                                                                MT EDUCARE LIMITED
+0104SLCMSLCC    INR       34500.00 396311 MTKA/3240611           396311         34500.0016 000017000                                                                                MT EDUCARE LIMITED
+0104SLCMSLCC    INR       34500.00 195465 MTKA/3240611           195465         34500.0016 000052000                                                                                MT EDUCARE LIMITED
+0104SLCMSLCC    INR       34500.00 553522 MTKA/3240611           553522         34500.0016 000017000                                                                                MT EDUCARE LIMITED
+0104SLCMSLCC    INR       34500.00 697100 MTKA/3240611           697100         34500.0016 000029000                                                                                MT EDUCARE LIMITED

@@ -1,0 +1,19 @@
+Line 30: Class SHDocVwCtl.WebBrowser of control wbSend was not a loaded control class.
+Line 37: The property name ExtentX in wbSend is invalid.
+Line 38: The property name ExtentY in wbSend is invalid.
+Line 39: The property name ViewMode in wbSend is invalid.
+Line 40: The property name Offline in wbSend is invalid.
+Line 41: The property name Silent in wbSend is invalid.
+Line 42: The property name RegisterAsBrowser in wbSend is invalid.
+Line 43: The property name RegisterAsDropTarget in wbSend is invalid.
+Line 44: The property name AutoArrange in wbSend is invalid.
+Line 45: The property name NoClientEdge in wbSend is invalid.
+Line 46: The property name AlignLeft in wbSend is invalid.
+Line 47: The property name NoWebView in wbSend is invalid.
+Line 48: The property name HideFileNames in wbSend is invalid.
+Line 49: The property name SingleClick in wbSend is invalid.
+Line 50: The property name SingleSelection in wbSend is invalid.
+Line 51: The property name NoFolders in wbSend is invalid.
+Line 52: The property name Transparent in wbSend is invalid.
+Line 53: The property name ViewID in wbSend is invalid.
+Line 54: The property name Location in wbSend is invalid.

@@ -1,0 +1,6 @@
+0104SLCMSLCC    INR            AMT CHQ NO. MTEX/0009859782        CHQ NO.              AMTTRAN CODE MICR NO                                                                                MT EDUCARE LIMITED
+0104SLCMSLCC    INR       12500.00 000352 MTEX/0009859782        000352         12500.0031 400229014                                                                                MT EDUCARE LIMITED
+0104SLCMSLCC    INR       20000.00 859868 MTEX/0009859782        859868         20000.0031 400229119                                                                                MT EDUCARE LIMITED
+0104SLCMSLCC    INR       20000.00 069085 MTEX/0009859782        069085         20000.0031 400229009                                                                                MT EDUCARE LIMITED
+0104SLCMSLCC    INR       10000.00 017931 MTEX/0009859782        017931         10000.0031 400229009                                                                                MT EDUCARE LIMITED
+0104SLCMSLCC    INR       54463.00 003995 MTEX/0009859782        003995         54463.0029 400229019                                                                                MT EDUCARE LIMITED

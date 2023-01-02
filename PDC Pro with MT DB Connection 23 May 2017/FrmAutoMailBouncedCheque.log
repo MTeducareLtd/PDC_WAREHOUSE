@@ -1,0 +1,41 @@
+Line 93: Class MSFlexGridLib.MSFlexGrid of control Grid was not a loaded control class.
+Line 130: Class MSComDlg.CommonDialog of control cmd was not a loaded control class.
+Line 137: Class MSFlexGridLib.MSFlexGrid of control GridEMail was not a loaded control class.
+Line 99: The property name _ExtentX in Grid is invalid.
+Line 100: The property name _ExtentY in Grid is invalid.
+Line 101: The property name _Version in Grid is invalid.
+Line 102: The property name Cols in Grid is invalid.
+Line 103: The property name FixedCols in Grid is invalid.
+Line 104: The property name RowHeightMin in Grid is invalid.
+Line 107: The property name BackColorFixed in Grid is invalid.
+Line 108: The property name ForeColorFixed in Grid is invalid.
+Line 109: The property name BackColorSel in Grid is invalid.
+Line 110: The property name ForeColorSel in Grid is invalid.
+Line 111: The property name BackColorBkg in Grid is invalid.
+Line 112: The property name GridColor in Grid is invalid.
+Line 113: The property name AllowBigSelection in Grid is invalid.
+Line 114: The property name FocusRect in Grid is invalid.
+Line 115: The property name ScrollBars in Grid is invalid.
+Line 116: The property name SelectionMode in Grid is invalid.
+Line 117: The property name AllowUserResizing in Grid is invalid.
+Line 119: The property name FormatString in Grid is invalid.
+Line 133: The property name _ExtentX in cmd is invalid.
+Line 134: The property name _ExtentY in cmd is invalid.
+Line 135: The property name _Version in cmd is invalid.
+Line 144: The property name _ExtentX in GridEMail is invalid.
+Line 145: The property name _ExtentY in GridEMail is invalid.
+Line 146: The property name _Version in GridEMail is invalid.
+Line 147: The property name FixedCols in GridEMail is invalid.
+Line 148: The property name RowHeightMin in GridEMail is invalid.
+Line 151: The property name BackColorFixed in GridEMail is invalid.
+Line 152: The property name ForeColorFixed in GridEMail is invalid.
+Line 153: The property name BackColorSel in GridEMail is invalid.
+Line 154: The property name ForeColorSel in GridEMail is invalid.
+Line 155: The property name BackColorBkg in GridEMail is invalid.
+Line 156: The property name GridColor in GridEMail is invalid.
+Line 157: The property name AllowBigSelection in GridEMail is invalid.
+Line 158: The property name FocusRect in GridEMail is invalid.
+Line 159: The property name ScrollBars in GridEMail is invalid.
+Line 160: The property name SelectionMode in GridEMail is invalid.
+Line 161: The property name AllowUserResizing in GridEMail is invalid.
+Line 163: The property name FormatString in GridEMail is invalid.
